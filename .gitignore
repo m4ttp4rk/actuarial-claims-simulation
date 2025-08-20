@@ -115,6 +115,7 @@ dmypy.json
 
 # Excel
 *.xlsx
+claims_simulation_results.xlsx
 
 # Generated figures
 figures/
